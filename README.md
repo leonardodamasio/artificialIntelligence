@@ -1,2 +1,2 @@
 # searchAlgorithms
-Programação de Técnicas de Busca e Otimização em Python, R e Weka
+Programação de Algoritmos de Busca e Otimização em Python, R e Weka
