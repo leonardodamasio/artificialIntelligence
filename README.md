@@ -7,7 +7,7 @@ Programação de **_Algoritmos de Inteligência Artificial_** em *Python*, *R* e
 
 Antes de tudo, obrigado pelo interesse em meu repositório!
 
-Estes são alguns dos modelos de **_Algoritmos de Inteligência Artificial_** que aprendi a realizar ao longo da minha jornada em **_Data Science_**. 
+Estes são alguns dos **_Algoritmos de Inteligência Artificial_** que aprendi a realizar ao longo da minha jornada em **_Data Science_**. 
 
 Dentro de cada diretório, você também encontrará as bases utilizadas para realizar cada modelo. 
 
