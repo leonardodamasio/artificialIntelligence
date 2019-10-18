@@ -13,7 +13,7 @@ Dentro de cada diretório, você também encontrará as bases utilizadas para re
 
 Sendo assim, fique a vontade para testá-los :)
 
-Todos os modelos foram feitos através da linguagem *Python* e linguagem *R* no **Jupyter Lab**.
+Todos os modelos foram feitos através da linguagem *Python* e linguagem *R* no **Jupyter Lab**, ou no software **Weka**.
 
 Algumas das bibliotecas utilizadas em Python foram ` `, ` `, e ` `.
 
